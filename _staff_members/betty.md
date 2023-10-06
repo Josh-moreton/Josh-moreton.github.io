@@ -1,5 +1,5 @@
 ---
-name: Betty Jefferson
+name: Josh Moreton
 position: CTO
 image_path: /images/josh.jpg
 LinkedIn: joshua-stuart-moreton

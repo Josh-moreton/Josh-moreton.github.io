@@ -15,7 +15,7 @@
   new_window: false
   highlight: false
 - name: Login
-  link: /
+  link: https://client1.example.digin.tel/
   new_window: true
   highlight: false
 - name: Sign Up

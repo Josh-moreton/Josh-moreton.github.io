@@ -2,8 +2,8 @@
   link: /pricing/
   new_window: false
   highlight: false
-- name: Blog
-  link: /blog/
+- name: Specs
+  link: /specs/
   new_window: false
   highlight: false
 - name: About
@@ -14,11 +14,3 @@
   link: /contact/
   new_window: false
   highlight: false
-- name: Login
-  link: https://client1.example.digin.tel/
-  new_window: true
-  highlight: false
-- name: Sign Up
-  link: /contact/
-  new_window: true
-  highlight: true

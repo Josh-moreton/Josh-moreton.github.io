@@ -5,14 +5,14 @@ description: >-
 ---
 
 <p class="editor-link" style="text-align: center;"><a href="cloudcannon:collections/_staff_members/" class="btn"><strong>&#9998;</strong> Manage Staff members</a></p>
-<ul class="staff">
-	{% for person in site.staff_members %}
-		<li>
-			<div class="square-image"><img src="{% include relative-src.html src=person.image_path %}" alt="{{ person.name }}"/></div>
-			<div class="name"><a target="_blank" href="https://linkedin.com/in/{{ person.LinkedIn }}">{{ person.name }}</a></div>
-			<div class="position">{{ person.position }}</div>
-			<div class="blurb">{{ person.blurb }}</div>
-
-		</li>
-	{% endfor %}
-</ul>
+<div class="row">
+	<div class="column"></div>
+	<h1>Endpoint Security</h1>
+	<p>Some text here</p>
+	<div class="column"></div>
+	<h1>Endpoint Security</h1>
+	<p>Some text here</p>
+	<div class="column"></div>
+	<h1>Endpoint Security</h1>
+	<p>Some text here</p>
+</div>

@@ -1,5 +1,5 @@
 ---
-name: Rod Cowan
+name: Test Cowan
 position: CEO
 image_path: /images/rod3.webp
 LinkedIn: rodcowan

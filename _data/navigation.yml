@@ -2,12 +2,12 @@
   link: /pricing/
   new_window: false
   highlight: false
-- name: Specs
-  link: /specs/
-  new_window: false
-  highlight: false
 - name: About
   link: /about/
+  new_window: false
+  highlight: false
+- name: Specs
+  link: /specs/
   new_window: false
   highlight: false
 - name: Contact

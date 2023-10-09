@@ -1,4 +1,4 @@
 ---
 name: Cloud Security
-description: PAssess your cloud posture and protect cloud workloads.
+description: Assess your cloud posture and protect cloud workloads.
 ---

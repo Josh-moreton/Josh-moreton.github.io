@@ -22,10 +22,15 @@
 	.square-image {
 		width: 150px;
 		height: 150px;
-			img {
-				border-radius: 130px;
-			}
-		}
+		overflow: hidden; /* Add this line to hide any content that overflows the square */
+	  }
+	  
+	  .square-image img {
+		width: 90%; /* Ensure the image fills the square container */
+		height: 90%;
+		object-fit: cover; /* Maintain the aspect ratio and cover the container */
+		border-radius: 75%; /* Set border-radius to 50% for a circular effect */
+	  }
 
 	.name {
 		font-size: 1.3em;

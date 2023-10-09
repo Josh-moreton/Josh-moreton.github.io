@@ -1,4 +1,7 @@
 ---
 name:
-description:
+position:
+image_path:
+LinkedIn:
+blurb:
 ---

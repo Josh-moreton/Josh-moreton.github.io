@@ -8,11 +8,9 @@ description: >-
 <ul class="tech-spec">
 	{% for person in site.tech_specs %}
 		<li>
-			<div class="square-image"><img src="{% include relative-src.html src=person.image_path %}" alt="{{ person.name }}"/></div>
-			<div class="name"><a target="_blank" href="https://linkedin.com/in/{{ person.LinkedIn }}">{{ person.name }}</a></div>
-			<div class="position">{{ person.position }}</div>
-			<div class="blurb">{{ person.blurb }}</div>
-
+			<div class="name">{{ person.name }}</div>
+			<br>
+			<div class="description">{{ person.description }}</div>
 		</li>
 	{% endfor %}
 </ul>
